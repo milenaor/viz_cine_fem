@@ -112,6 +112,14 @@ blockquote.resumen {
   padding: 2rem 0;
 }
 
+blockquote.resumen2 {
+  font-family: "Cormorant Garamond", serif;
+  text-align: center;
+  font-size: 22px;
+  color: #c9af8c;
+  padding: 2rem 0;
+}
+
 .intro {
   margin: 5rem 0;
 }
