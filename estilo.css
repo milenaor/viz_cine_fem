@@ -179,3 +179,8 @@ blockquote.resumen {
   border: 2px solid #2f3c2f;
   color: #2f3c2f;
 }
+
+p.indentado {
+  margin-left: 3rem;
+  text-align: justify;
+}
