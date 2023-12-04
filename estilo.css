@@ -199,8 +199,14 @@ p.info {
   margin: 0;
 }
 
-cite.pieImagen {
+.pieImagen cite {
   text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.pieImagen2 cite {
+  background-color: white;
   padding: 0;
   margin: 0;
 }
